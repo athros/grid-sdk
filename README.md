@@ -1,17 +1,24 @@
 # <img src="/images/gui/logo_dark@2x.png?raw=true" width="169" height="49" title="Grid">  
+Grid is a 2D game engine written in pure Lua, built by
+[Planimeter.](https://www.planimeter.org/)  
+It was designed for multiplayer-first game experiences and to bring  
+professional-grade game engine features to the hobbyist community.
+
+Grid is the most feature-packed game engine you've never heard of, and  
+provides more functionality out-of-the-box than most other competing game  
+engines.
+
+*Planimeter is a Steamworks partner.*
+
 ## Need Help?
 [![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/Gbj4jnv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 **Ask [@andrew](https://github.com/andrewmcwatters) or another
 Planimeter @contributor, and we'll get to you ASAP.**
 
-Grid is a game engine for Lua built by [Planimeter.](https://www.planimeter.org/)  
-It was designed for multiplayer-first game experiences.
-
-*Planimeter is a Steamworks partner.*
-
-## Featured On
-[![Hacker News](https://news.ycombinator.com/y18.gif) Hacker News](https://news.ycombinator.com/front?day=2020-06-07). June 7, 2020.  
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [ellisonleao / **magictools**](https://github.com/ellisonleao/magictools). August 30, 2017.  
+## Featured On/In
+[GitHub Arctic Code Vault](https://archiveprogram.github.com/). July 16, 2020.  
+[Hacker News](https://news.ycombinator.com/front?day=2020-06-07). June 7, 2020.  
+[ellisonleao / **magictools**](https://github.com/ellisonleao/magictools). August 30, 2017.  
 
 ## Create a Project
 [Getting Started](http://www.planimeter.org/grid-sdk/tutorials/Getting_Started)  
@@ -24,9 +31,10 @@ It was designed for multiplayer-first game experiences.
 * Client-server model with authoritative servers
 * Client-server code splitting
 * Client-side prediction
+* [Configurable tick rate](https://www.planimeter.org/grid-sdk/api/Tick_rate_and_bandwidth)
+* CSS 2.1/CSS Backgrounds and Borders Level 3 based box model user interfaces
 * Dedicated servers
 * Entities
-* GUI
 * Level streaming
 * Listen servers
 * Live reloadable assets
@@ -38,6 +46,7 @@ It was designed for multiplayer-first game experiences.
 * Retina support
 * Soundscripts
 * Spritesheet animations
+* System font access
 * [Tiled](http://www.mapeditor.org/ "Tiled")-based maps
 * Tweening
 * Voice chat
